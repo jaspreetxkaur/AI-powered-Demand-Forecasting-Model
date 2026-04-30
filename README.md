@@ -4,12 +4,15 @@ An intelligent demand forecasting and inventory decision-support system built fo
 
 
 📌 Problem Statement
+
 Businesses in the Indian e-commerce sector suffer significant revenue losses due to inaccurate demand predictions — leading to either overstocking (capital tied up in unsold inventory) or stockouts (lost sales and poor customer experience). Traditional forecasting models fail to account for India-specific factors like festivals, regional demand patterns, and macro-economic events.
 
 💡 Our Approach
+
 We built a context-aware, AI-powered forecasting system that goes beyond simple prediction — acting as a virtual AI Store Manager that provides actionable inventory decisions.
 
 ✨ Key Features
+
 📊 Context-Aware Forecasting
 Unlike traditional models, our system considers:
 
